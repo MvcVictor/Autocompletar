@@ -1,5 +1,32 @@
 # Preenchimento Automático de Currículos (`ProjetoCurriculum`)
 ![GifTesteDeApi](https://github.com/user-attachments/assets/5dc68729-97ea-4147-9b0c-70187585f232)
+
+# Preenchimento Automático de Currículos (`ProjetoCurriculum`)
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="60" height="60"/>
+</p>
+
+---
+
+## 🛠️ Linguagens e Ferramentas Utilizadas | Languages and Tools Used
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"/> **Python**  
+  - _Linguagem principal do projeto, utilizada para automação e manipulação de dados._  
+  - _Main language of the project, used for automation and data handling._
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="20" height="20"/> **JSON**  
+  - _Formato utilizado para armazenar e organizar os dados pessoais do usuário._  
+  - _Format used to store and organize user personal data._
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="20" height="20"/> **Selenium WebDriver**  
+  - _Ferramenta para automação de navegadores web, responsável por preencher os formulários automaticamente._  
+  - _Tool for web browser automation, responsible for automatically filling out forms._
+
+---
+
 [English below 🇺🇸]
 
 
